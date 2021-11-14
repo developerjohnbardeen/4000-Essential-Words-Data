@@ -1,0 +1,230 @@
+ complete_word_audio
+
+book_2
+1: The Twelve Months twelvemonth complete_word_audio
+2: The Dragon dragon complete_word_audio
+3: The Battle of Thermopylae thermopylea complete_word_audio
+4: The Deer and His Image deerandhisimage complete_word_audio
+5: May 29,1953 may291952 complete_word_audio
+6: The Frog Prince frogprince complete_word_audio
+7: A Beautiful Bird beautifulbird complete_word_audio
+8: Tricky Turtle trickyturtle complete_word_audio
+9: The Tale of Bartelby O’Boyle talebartelbyobyle complete_word_audio
+10: Blackbeard blackbeard complete_word_audio
+11: Dinosaur Drawings dinasordrawings complete_word_audio
+12: The Mean Chef meanchef complete_word_audio
+13: The Cat and the Fox catandfox complete_word_audio
+14: The Good Student goodstudent complete_word_audio
+15: The Lucky Knife luckyknife complete_word_audio
+16: Prince Sam princesam complete_word_audio
+17: Henry Ford’s Famous Car henryfordfamouscar complete_word_audio
+18: The Priest priest complete_word_audio
+19: Mrs. May and the Green Girl mandyandgreengirl complete_word_audio
+20: Albert Einstein alberteinstein complete_word_audio
+21: From the Earth to the Stars earthtostars complete_word_audio
+22: The Farm Festival farmfestival complete_word_audio
+23: The Clever Thief clevertheif complete_word_audio
+24: The Doctor’s Cure doctorcure complete_word_audio
+25: The Criminal criminal complete_word_audio
+26: The Two Captains twocaptains complete_word_audio
+27: The Duke and the Minister dukeandminister complete_word_audio
+28: The Fisherman fisherman complete_word_audio
+29: Osiris and the Nile osirisandnile complete_word_audio
+30: The Taxi Driver taxidriver complete_word_audio
+
+
+book_3
+1: The Real St. Nick realstnick complete_word_audio
+2: The Shepherd and the Wild Sheep shepherdwildsheep complete_word_audio
+3: The Boy and his Sled boyandhissled complete_word_audio
+4: Tiny Tina tinytina complete_word_audio
+5: Trick-or-treat! trickortreat complete_word_audio
+6: The Senator and the Worm senatorandworm complete_word_audio
+7: Patsy Ann patsyann complete_word_audio
+8: The Anniversary Gift anniversarygift complete_word_audio
+9: Dalton vs. the Bully daltonvsbully complete_word_audio
+10: Anna the Babysitter annababysitter complete_word_audio
+11: Peter and the Dwarf peteranddwarf complete_word_audio
+12: The Ice Cream Cone Explosion icecreaconexplosion complete_word_audio
+13: Sheriff Dan sheriffdan complete_word_audio
+14: The Helpful Apprentice helpfulapprentice complete_word_audio
+15: Why Monkey Has No Home whymokyhasnohome complete_word_audio
+16: Matthew Learns a Lesson matthewlearnsalesson complete_word_audio
+17: The Magic Cup magiccup complete_word_audio
+18: The Knight’s Plan knightsplan complete_word_audio
+19: The Magic Pear Tree magicpeartree complete_word_audio
+20: Little Wolf and Mother Wolf littlewolfandmotherwolf complete_word_audio
+21: The Old Man with a Bump oldmanbump complete_word_audio
+22: The Circus circus complete_word_audio
+23: Lazy Hans lazyhans complete_word_audio
+24: The Bremen Town Musicians brementownmusicians complete_word_audio
+25: How Did Greenland Get Its Name? greenlandname complete_word_audio
+26: Everyone is Special everyonespecial complete_word_audio
+27: Pizarro and the Inca Gold pizarroincagold complete_word_audio
+28: The Boy Who Saved the Town boysavedtown complete_word_audio
+29: An Interesting Life interestinglife complete_word_audio
+30: The Kitten and the Caterpillar kittencaterpillar complete_word_audio
+
+
+book_4 
+1: The History of Chocolate historychocolate complete_word_audio
+2: Monkey Island monkyisland complete_word_audio
+3: The Young Man and the Old Man youngmanoldman complete_word_audio
+4: The Tricky Fox trickyfox complete_word_audio
+5: The Magic Computer magiccomputer complete_word_audio
+6: Jack Frost and the Pudding jackfrostpudding complete_word_audio
+7: The Architect’s Plan architectplan complete_word_audio
+8: Janie and the Music Player janiemusicplayer complete_word_audio
+9: Growing to be Great growinggreat complete_word_audio
+10: Anton’s Great Discovery antonydicovery complete_word_audio
+11: How a Singer Helped Win the War singerhelpedwinwar complete_word_audio
+12: The Sun and the North Wind sunnorthwind complete_word_audio
+13: The Big Race bigrace_4 complete_word_audio
+14: The Brothers and the Bread brothersandbread complete_word_audio
+15: Laika, the Space Dog laikaspacedog complete_word_audio
+16: Gwen’s New Friends gwensnewfriends complete_word_audio
+17: Kara Goes Camping karagoescamping complete_word_audio
+18: The School Play schoolplay complete_word_audio
+19: Isaac’s First Plane Trip isaacfirstplanetrip complete_word_audio
+20: The Betrayal betrayal complete_word_audio
+21: The Teller and the Thieves tellerandthieves complete_word_audio
+22: The Scribe’s Warning scribewarning complete_word_audio
+23: How the Dinosaurs Really Died dinosaursreallydied complete_word_audio
+24: The Traveler and the Innkeeper travelerinnkeeper complete_word_audio
+25: Gilbert and the Lizard gilbertlizard complete_word_audio
+26: The Forest People forestpeople complete_word_audio
+27: a Dying Forest dyingforest complete_word_audio
+28: Thucydides and the Plague of Athens thucydidesplagueathen complete_word_audio
+29: The Solar Car Race solarcarrace complete_word_audio
+30: The Heirs heirs complete_word_audio
+
+book_5 
+1: The Little Mice littlemice complete_word_audio
+2: The Helpful Abbey helpfulabbey complete_word_audio
+3: The Bachelor’s Lesson bachelorlesson complete_word_audio
+4: The Corrupt Administrator corruptadministrator complete_word_audio
+5: a Famous Accident famousaccident complete_word_audio
+6: The Island island complete_word_audio
+7: Small World smallworld complete_word_audio
+8: Becoming a Healer becominghealer complete_word_audio
+9: The Weaving Machine weavingmachine complete_word_audio
+10: Life on the Farm lifeonfarm complete_word_audio
+11: Beethoven’s Gift beethovengift complete_word_audio
+12: Brothers brothers complete_word_audio
+13: The Old Hound oldhound complete_word_audio
+14: Day Without Sight daywithoutsight complete_word_audio
+15: The Big Ship bigship complete_word_audio
+16: The History of Parachutes historyparachutes complete_word_audio
+17: “I Didn’t Do It!” idontdoit complete_word_audio
+18: The Soldier’s Decision soldierdecision complete_word_audio
+19: Jane’s Pride janepride complete_word_audio
+20: Microchips microchips complete_word_audio
+21: The Twins twins complete_word_audio
+22: The New Bioco newbioco complete_word_audio
+23: How Comet Got His Tail cometgothistail complete_word_audio
+24: The Resourceful Landlord resourcefullandlord complete_word_audio
+25: The Man and the Monkey manandmonkey complete_word_audio
+26: Cosmo’s Flight cosmoflight complete_word_audio
+27: The First Organ Transplant firstorgantransplant complete_word_audio
+28: The Lottery lottery complete_word_audio
+29: Jen’s New Job jennewjob complete_word_audio
+30: The Demon’s Bridge demonbridge complete_word_audio
+
+book_6 
+1: The North Star northstar complete_word_audio
+2: The Fossil Hunters fossilhunters complete_word_audio
+3: Dressed to Excess dressedtoexcess complete_word_audio
+4: The Butler’s Bad Day butlersbadday complete_word_audio
+5: A Bet abet complete_word_audio
+6: Amazing Komodo Dragons amazingkomododragons complete_word_audio
+7: Greek Magical Papyri greekmagicalrapyri complete_word_audio
+8: Watch Out! watchout complete_word_audio
+9: Dangerous Bites dangerousbites complete_word_audio
+10: The Avalanche avalanche complete_word_audio
+11: The Lydian King lydianking complete_word_audio
+12: The Butler butler complete_word_audio
+13: The End of Smallpox endofsmallpox complete_word_audio
+14: The Coward’s Lesson cowardslesson complete_word_audio
+15: Epidemic in Zimbabwe epidemiczimbabwe complete_word_audio
+16: The Brute and the Billionaire bruteandbillionaire complete_word_audio
+17: The Tenacious Inventor tenaciousinventor complete_word_audio
+18: The Nurse’s Lesson  nurselesson complete_word_audio
+19: Seizures Then and Now seizuresthenandnow complete_word_audio
+20: The Greedy Bee greedybee complete_word_audio
+21: The Mayor of Sherman mayorofsherman complete_word_audio
+22: The Editor’s Choice editorschoice complete_word_audio
+23: The Ice House icehouse complete_word_audio
+24: Preparing of the Future preparingfuture complete_word_audio
+25: Hundred Plays hundredplays complete_word_audio
+26: The Kidnapping kidnapping complete_word_audio
+27: The Earl of Shining earlofshining complete_word_audio
+28: The Lord and the Farmers lordandfarmers complete_word_audio
+29: The Shortcut theshortcut complete_word_audio
+30: The Mad Hatter madhatter complete_word_audio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+book_1
+1: The Lion and the Rabbit 
+2: The Laboratory 
+3: The Report  
+4: The Dog’s Bell 
+5: The Jackal and the Sun Child 
+6: The Friendly Ghost 
+7: The Best Prince 
+8: How the Sun and the Moon Were Made 
+9: The Starfish 
+10: The First Peacock 
+11: Princess Rose and the Creature 
+12: The Crazy Artist 
+13: The Farmer and the Cats 
+14: A Magical Book 
+15: The Big Race 
+16: Adams County’s Gold 
+17: The Race for Water 
+18: The Little Red Chicken 
+19: Shipwrecked 
+20: The Seven Cities of Gold 
+21: Katy 
+22: A Better Reward 
+23: The Camp 
+24: A Strong Friendship 
+25: Joe’s Pond 
+26: Archie and His Donkey Unit 
+27: The Spider and the Bird 
+28: The Party 
+29: How the World Got Light 
+30: Cats and Secrets
